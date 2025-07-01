@@ -1,5 +1,9 @@
 # Cyclistic-Bike-Share-Analysis
 
+# Python file with output and visualization :
+
+https://colab.research.google.com/drive/10XLuC_8Jk1OGAY-mRwbYgdDDDIYcJ0tN?usp=sharing
+
 # 🚲 Cyclistic Bike-Share Case Study
 
 This project is part of a full portfolio analysis based on a case study by Google. The goal is to analyze historical bike trip data to help **Cyclistic**, a fictional bike-share company, design a marketing strategy that converts **casual riders into annual members**.
@@ -68,13 +72,6 @@ Cyclistic's marketing team wants to understand how different types of riders (ca
 
 ---
 
-## 🧩 Next Steps
-
-- Deploy dashboard on Tableau Public
-- Create a slide deck for executive presentation
-- Explore clustering to personalize ride recommendations
-
----
 
 ## 📌 Author
 
