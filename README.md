@@ -76,7 +76,7 @@ Cyclistic's marketing team wants to understand how different types of riders (ca
 ## 📌 Author
 
 👤 **Sachin Kumar Gupta**   
-🔗 [LinkedIn](linkedin.com/in/sachingupta-ds) | [Portfolio]([https://yourportfolio.com](https://public.tableau.com/app/profile/sachingupta)
+🔗 [LinkedIn](linkedin.com/in/sachingupta-ds) | [Portfolio](https://public.tableau.com/app/profile/sachingupta)
 
 ---
 
